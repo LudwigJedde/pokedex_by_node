@@ -1,0 +1,27 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "pokedex",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
+    "mongoose": "^5.8.9",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudwigJedde/pokedex_by_node.git"
+  },
+  "author": "Ludwig Jedde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LudwigJedde/pokedex_by_node/issues"
+  },
+  "homepage": "https://github.com/LudwigJedde/pokedex_by_node#readme"
+}
